@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>성적을 입력하세요.</h1>
-<form action="ScoreServlet.jsp" method="POST">
+<form action="03scoreoutput.jsp" method="POST">
 <label for="Korean">국어 성적:</label>
 <input type="number" id="국어" name="Korean">
 <hr>
