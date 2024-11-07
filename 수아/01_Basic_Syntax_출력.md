@@ -45,12 +45,12 @@
 
 ---
 
-### 과제3
-<details>
+### 과제3 -ing
+<!-- <details>
   <summary>같은 페이지에서 동작</summary>
   - http://localhost:8080/01_Basic_Syntax/
   <img width="474" alt="image" src="https://private-user-images.githubusercontent.com/66674138/383618779-9168cd8c-a76f-4aa4-a3c5-85a57b35bc18.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA5MDY4NTUsIm5iZiI6MTczMDkwNjU1NSwicGF0aCI6Ii82NjY3NDEzOC8zODM2MTg3NzktOTE2OGNkOGMtYTc2Zi00YWE0LWEzYzUtODVhNTdiMzViYzE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA2VDE1MjIzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFiNGJhMDAzZDRhODliYTVmNDI5ZjJkYzJiYjY4OTdmNjZkMDViN2FmODRhOTk1ZjIxMjhhMWNkNWY3MzljODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.U-oB7URFIpxQKBg--WzjhbkbVut0BBwMqrjYD7QEPTc">
   <img width="" alt="image" src="">
   <img width="" alt="image" src="">
   <img width="" alt="image" src="">
-</details>
+</details> -->

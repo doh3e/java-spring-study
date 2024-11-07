@@ -1,8 +1,11 @@
-### STS4 단축키
+### STS4 단축키 (Mac)
 
-- `Command + fn + F11` : Run (Java Application)
+- `Cmd + fn + F11` : Run (Java Application)
+- `블록씌우기 + Cmd + Shift + F` : 정렬
+- `fn + Ctrl +  ↑,↓` : 열린 탭 간 이동
 
-서 Command + Shift + O (Windows/Linux에서는 Ctrl + Shift + O)는 import 정리 단축키입니다.
-
-기능 설명
-**Command + Shift + O**를 누르면 현재 파일에서 필요한 import를 자동으로 추가하거나 사용하지 않는 import를 삭제합니다. 
+#### 삽입/삭제
+- `Cmd + D` : 한 줄 삭제
+- `Cmd + backspace` : 단어 단위 삭제
+- `Cmd + Option + 방향키` : 한 줄 복사
+- `Cmd + Option + O` : import 정리 (자동 삽입/삭제)
