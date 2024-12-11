@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+    
+<mapper namespace="com.ssafy.study_04_jieun.model.dao.MemberDao">
+
+<select id="selectAll" resultType="com.ssafy.study_04_jieun.model.dto.Member">
+	SELECT id, name, age, phone, address from ssafy.member1206
+</select>
+
+<select id="selectOne" resultType="com.ssafy.study_04_jieun.model.dto.Member">
+	SELECT * FROM ssafy.member1206 where id = #{id}
+</select>
+
+<insert id="addMember" parameterType="com.ssafy.study_04_jieun.model.dto.Member">
+  INSERT INTO ssafy.member1206 (name, jumin, age, phone, address, profile_image)
+  VALUES (#{name}, #{jumin}, #{age}, #{phone}, #{address}, #{profileImage})
+</insert>
+
+<delete id="deleteMember">
+	DELETE FROM ssafy.member1206 where id = #{id}
+</delete>
+
+<update id="editMember" parameterType="com.ssafy.study_04_jieun.model.dto.Member">
+	UPDATE ssafy.member1206 SET name=#{name}, jumin=#{jumin}, age=#{age}, phone=#{phone}, address=#{address}, profile_image=#{profileImage}  where id = #{id}
+</update>
+
+</mapper>
