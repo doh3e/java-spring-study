@@ -23,7 +23,7 @@ public class Car {
 
 클래스를 기반으롤 만들어진 실체
 
-클래스에 정의된 속성과 행동을 가
+클래스에 정의된 속성과 행동을 가짐
 
 ```java
 Car myCar = new Car(); // Car 클래스의 객체 생성
